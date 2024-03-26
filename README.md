@@ -1,4 +1,5 @@
-MIPS-Simulator-
+MIPS-Simulator
 ===============
 
-Developed a simulator for pipelined processor, which is capable of loading a specified MIPS binary file and generating cycle-by-cycle simulation of binary code. The project achieved dynamic scheduling by implementing Scoreboarding algorithm. 
+MIPS Simulator is capable of loading a specified MIPS text file and generating assembly code. It also generates instruction-by-instruction simulation of the MIPS code. 
+The project achieved dynamic scheduling by implementing Scoreboarding algorithm. 
